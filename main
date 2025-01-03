@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This is a sample portfolio webpage for its creator, Ashlee. It includes a brief introduction, hobbies and my personal Tumblr link.">
+    <title>Personal Portfolio</title>
+    <link href="css/style.css" rel="stylesheet">
+   <link rel="icon" type="image/png" href="images/favi.png">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <p>Explore my journey in creativity, coding, and design!</p>
+    </header>
+    <main>
+        <h2>About Me</h2>
+        <p>Hello! My name is Ashlee. I'm a busy, loving mother of three. I'm also a proud Pisces. I’m passionate about web development, graphic design, and photography. I am trying to pursue a career in web development and design and love to create and learn. I also major in Psychology and wish to one day achieve my doctorate. I am creative, fun, intelligent, unique, and random! I have many other hobbies that I also enjoy listed below;</p><br>
+        <ul>
+            <li>Web Development</li>
+            <li>Graphic Design</li>
+            <li>Photography</li>
+            <li>Modeling</li>
+            <li>Video Games</li>
+            <li>Music</li>
+            <li>The Arts</li>
+        </ul>
+        <br><br><br>
+        <h2>Gallery</h2>
+        <img src="images/webd.jpeg" alt="Web Development Project">
+        <img src="images/gd.jpeg" alt="Graphic Design Example">
+        <img src="images/mod.jpg" alt="Modeling Snapshot">
+        <br><br><br>
+        <a href="https://thatdorkashlee.tumblr.com/" target="_blank">Check out my Tumblr!</a>
+    </main>
+    <footer>
+        <p>&copy; 2024 Ashlee Fenstermacher. All rights reserved.</p>
+    </footer>
+</body>
+</html>
